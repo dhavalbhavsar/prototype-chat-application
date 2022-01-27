@@ -38,3 +38,5 @@ Note:-
 
 1) user_id = It's only made simple but better to use login via API then we can remove this.
 2) last_message_id = Which is to maintain and get the result of the list after that. It's an optional parameter. If it will not pass then return all messages.
+
+This one working prototype which allow to Direct use api and for that we allow Cross-Origin using middleware.
